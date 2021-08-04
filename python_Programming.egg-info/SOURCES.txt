@@ -1,0 +1,11 @@
+setup.py
+lesson_package/__init__.py
+lesson_package/talk/__init__.py
+lesson_package/talk/animal.py
+lesson_package/talk/human.py
+lesson_package/tools/__init__.py
+lesson_package/tools/utils.py
+python_Programming.egg-info/PKG-INFO
+python_Programming.egg-info/SOURCES.txt
+python_Programming.egg-info/dependency_links.txt
+python_Programming.egg-info/top_level.txt
